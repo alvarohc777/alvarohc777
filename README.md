@@ -8,7 +8,7 @@
 
 You can visit my fault detection visualization at [alvarohc777.github.io/](https://alvarohc777.github.io/)
 
-Python \ Javascript \ C#
+Python \ Javascript \ C# \ Pascal (Inno Setup)
 
 <!--
 **alvarohc777/alvarohc777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
