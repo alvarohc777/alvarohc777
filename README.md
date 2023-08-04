@@ -2,13 +2,14 @@
 
 **Junior Researcher | Teaching Assistant | M.Sc. Student**
 
-- ⚡ Researching Fault Detection on Microgrids and Active Distribution Networks
+- ⚡ Researching Fault Detection on Microgrids and Active Distribution Networks.
+- 💻 C# / Vue.js Fullstack Developer Jr 
 - 📍 Universidad del Norte, Barranquilla, Colombia.
 - 📫 How to reach me: aherrada@uninorte.edu.co
 
 You can visit my fault detection visualization at [alvarohc777.github.io/](https://alvarohc777.github.io/)
 
-Python \ Javascript \ C# \ Pascal (Inno Setup)
+Python \ Javascript (Vue.js) \ C# \ Pascal (Inno Setup)
 
 <!--
 **alvarohc777/alvarohc777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
